@@ -32,3 +32,12 @@ Snapshots:   0 total
 Time:        1.407 s, estimated 2 s
 Ran all test suites matching /Linear/i.
 ```
+
+How is this possible?
+```shell
+$ cat package.json | grep test
+        "test": "jest DFSOnBST LRU LinearSearchList BinarySearchList TwoCrystalBalls BubbleSort SinglyLinkedList DoublyLinkedList Queue Stack ArrayList MazeSolver QuickSort BTPreOrder BTInOrder BTPostOrder BTBFS CompareBinaryTrees DFSOnBST DFSGraphList Trie BFSGraphMatrix Map MinHeap",
+
+```
+
+View the `ligma.config.js` file. You are able to specify all the algorithms you want to generate and then the program generates them all. 
