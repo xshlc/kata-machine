@@ -2,6 +2,36 @@
 
 ## See `notes.md`.
 
+<img src="https://miro.medium.com/v2/resize:fit:4080/1*Uzrw9faXdYgg20I6NjUTBw.png" />
+
+source: https://www.bigocheatsheet.com/
+
+---
+
+### Big O Cheatsheets
+##### DFS and BFS
+![](/images/dfs-and-bfs.jpg)
+##### Recursions
+![](/images/recursion.jpg)
+##### Leetcode Algorithms
+![](/images/algos.jpg)
+##### Sorting Algorithms
+![](/images/sorting.jpg)
+##### Data Structures
+![](/images/ds.jpg)
+##### Java Collections
+![](/images/java-collections.jpg)
+source: https://www.lavivienpost.com/big-o-notation-cheat-sheet-leetcode-big-o/
+
+---
+
+<img src="https://paper-attachments.dropbox.com/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png" />
+
+source: https://www.bigocheatsheet.com/
+
+---
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*DzREjb9hiUgrWeWT.png" />
 -- end of my memo --
 
 ## Developed live on twitch
